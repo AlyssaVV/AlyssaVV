@@ -18,11 +18,11 @@
 
   ## 🎨 《The End of The Fucking World》 
 
-  ### ![1](.\images\1.jpg)
+  ### ![1](./images/1.jpg)
 
-![2](.\images\2.jpg)
+![2](./images/2.jpg)
 
-![3](.\images\3.jpg)
+![3](./images/3.jpg)
 
 ![](https://github-readme-stats.vercel.app/api?username=AlyssaVV&show_icons=true&count_private=true&hide_title=true)
 
