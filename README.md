@@ -6,6 +6,8 @@
 
   📖 Vocation: 废物
 
-  📖 个人名片：https://t00.ls/AlyssaVV
+  📖 FindMe：https://t00.ls/AlyssaVV
 
   
+
+
