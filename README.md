@@ -6,13 +6,18 @@
 
   📖 FindMe：https://t00.ls/AlyssaVV
 
-  ## 📰 指点错误
+  ### 📰 指点错误
 
   [漏洞挖掘](https://mp.weixin.qq.com/s/zRijXWwrvziE1fllveAw8g)
 
   [Anti-sandbox Shellcode](https://www.t00ls.com/thread-74108-1-1.html)
 
-  
+  ### 🔄 Todolist
+
+  - 前置准入平台
+  - 后置反射修改
+  - 爪哇代码审计
+  - 出去走走
 
 
   # ✨ Meaning of AlyssaVV
