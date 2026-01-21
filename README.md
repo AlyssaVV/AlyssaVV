@@ -8,7 +8,7 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AlyssaVV&show_icons=true&count_private=true&hide_title=true" />
 
-  ### 📰 指点错误
+  ### 📰 指出文章错误
 
   [漏洞挖掘](https://mp.weixin.qq.com/s/zRijXWwrvziE1fllveAw8g)
 
