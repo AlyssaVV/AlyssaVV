@@ -17,7 +17,7 @@
 
   # ✨ Meaning of AlyssaVV
 
-  ## 🎨 《The End of The Fucking World》 我喜欢这部英剧 
+  ## 🎨 《The End of The Fucking World》 I like this British TV series. The female lead is named Alyssa. So I named ID "AlyssaVV".
 
   ### ![1](./images/1.jpg)
 
